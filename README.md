@@ -1,4 +1,6 @@
-# New Project
+# Typescript Todo List
+
+Credits : https://www.youtube.com/watch?v=bAJlYgeovlg&t=29s
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
